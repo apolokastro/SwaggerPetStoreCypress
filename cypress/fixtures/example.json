@@ -1,0 +1,28 @@
+{
+  "createUserTest": {
+    "id": 31321654846,
+    "username": "KeyserSoze",
+    "firstName": "Keyser",
+    "lastName": "Soze",
+    "email": "keyser.Soze@testmail.com",
+    "password": "asd123",
+    "phone": "123456789",
+    "userStatus": 0
+  },
+  "getUserTest": {
+    "username": "KeyserSoze"
+  },
+  "updateUserTest": {
+    "id": 31321654846,
+    "username": "KeyserSoze",
+    "firstName": "Keyser123",
+    "lastName": "Soze123",
+    "email": "keyser.Soze@testmail.com",
+    "password": "asd123",
+    "phone": "123456789",
+    "userStatus": 0
+  },
+  "deleteUserTest": {
+    "username": "KeyserSoze"
+  }
+}
